@@ -1,3 +1,5 @@
+print('Hello world')
+
 def calc(a, b, op=None):
     """
     Calculator for running operations on two floats
